@@ -1,16 +1,17 @@
-## Hi there 👋
+## Programming in:
+- ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+- Hopefully more coming soon :) I wanted to try Scala for some time and something low-level.
 
-<!--
-**G00d-Habitz/G00d-Habitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+I love spending time with my cat and some jazz music. I really enjoy programming and solving problems (not only chess problems!), I'm looking for new opportunities. Feel free to reach out to me, no matter the topic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a **Bachelor's in Culture and Creative Writing** from the University of Wrocław and I'm currently studying **Computer Science** on the weekends at WSB Merito University Wrocław.
+
+## What keeps me going
+♟️ **Chess**, 📚 **Literature**, 🎶 **Music**, 🐱 **My cat Hilda**, 🎥 **Anime**, 🚶 **Strolling**, 🎸 **Playing guitar**
+
+## Contact
+- **Email**: [TomaszGChmielewski@gmail.com](mailto:TomaszGChmielewski@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/tomasz-chmielewski-345b011b0)
