@@ -7,7 +7,7 @@
 ### About me
 I love my cat and some jazz music. I really enjoy programming and solving problems (not only chess problems!), I'm looking for new opportunities. Feel free to reach out to me, no matter the topic.
 
-I have a **Bachelor's in Culture and Creative Writing** from the University of Wrocław and I'm currently studying **Computer Science** on the weekends at WSB Merito University Wrocław.
+I'm currently studying **Computer Science** on the weekends at WSB Merito University Wrocław and I have a **Bachelor's in Culture and Creative Writing** from the University of Wrocław.
 
 ### What keeps me going
 ♟️ **Chess**, 📚 **Literature**, 🎶 **Music**, 🐱 **My cat Hilda**, 🎥 **Anime**, 🚶 **Strolling**, 🎸 **Playing guitar**
