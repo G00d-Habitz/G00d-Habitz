@@ -1,6 +1,8 @@
 ### Programming in:
 - ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+- [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+
 - Hopefully more coming soon :) I wanted to try Scala for some time and something low-level.
 
 
